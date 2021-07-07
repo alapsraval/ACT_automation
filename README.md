@@ -8,4 +8,4 @@ This is a web application that downloads ACT score files using Encoura web API a
 * Run `Pip install -r requirements.txt`
 * Store your credentials in config.py file using following variables:
   `USERNAME, PASSWORD, ORGANIZATION_UID, API_KEY, FTP_USERNAME, TP_PASSWORD`
-* Run `python ACT_download_script.py` in terminal or using a scheduler.  
+* Run `python main.py` in terminal or using a scheduler.  
